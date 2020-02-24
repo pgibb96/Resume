@@ -25,8 +25,9 @@
 %-----------------------------
 %        FONTS
 %-----------------------------
+\usepackage{fontspec}
 
-
+\setmainfont[Color=primary, Path = Fonts/Raleway/, BoldItalicFont=Raleway-LightItalic, BoldFont=Raleway-Light, ItalicFont=Raleway-ExtraLightItalic]{Railway-ExtraLight}
 
 %-----------------------------
 %        Last Updated On
